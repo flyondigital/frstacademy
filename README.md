@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @flyondigital
-- 👀 I’m interested in ...software sales and design
+- 👀 I’m interested in ...saas.
 - 🌱 I’m currently learning ... cloud deployment
 - 💞️ I’m looking to collaborate on ...sales and design
-- 📫 How to reach me ...flyondigitalservices@gmail.com
+- 📫 How to reach me ...flyondigitalservices@gmail.com or flyondigital.xyz
 
 <!---
 frstacademy/frstacademy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
